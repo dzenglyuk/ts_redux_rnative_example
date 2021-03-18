@@ -1,12 +1,10 @@
 {
-  "name": "ts_redux_rnative_example",
-  "displayName": "ts_redux_rnative_example",
-  "expo": {
     "name": "ts_redux_rnative_example",
-    "slug": "ts_redux_rnative_example",
-    "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
-  }
+    "displayName": "ts_redux_rnative_example",
+    "expo": {
+        "name": "ts_redux_rnative_example",
+        "slug": "ts_redux_rnative_example",
+        "version": "1.0.0",
+        "assetBundlePatterns": ["**/*"]
+    }
 }
